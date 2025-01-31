@@ -28,3 +28,15 @@ color: #B3B3B3;
 .info-section ul{
     list-style: none;
 }
+
+.box {          
+    width: 890px;
+    height: 200px;
+    background-color: rgb(59, 52, 52);
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    text: black;
+    line-height: 100px;
+    font-weight: bold;
+}
